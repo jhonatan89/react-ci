@@ -2,7 +2,6 @@
   "name": "taller",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jhonatan89.github.io/react-ci",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -14,7 +13,8 @@
     "web-vitals": "^1.1.1",
     "axios": "^0.19.2",
     "express": "^4.17.1",
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.0.0",
+    "homepage": "https://jhonatan89.github.io/react-ci"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -49,4 +49,5 @@
     "eslint-plugin-jest": "^24.3.1",
     "eslint-plugin-react": "^7.22.0"
   }
+
 }
