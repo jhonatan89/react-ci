@@ -16,12 +16,6 @@ body > div {
   flex: 1 0 auto;
 }
 
-footer {
-  color: #888;
-  font-size: 12px;
-  flex-shrink: 0;
-}
-
 .loading-spinner {
   animation: rotation 2s infinite linear;
   margin: 120px;
